@@ -55,6 +55,7 @@ Build a docker image to use the python api and push it to the DockerHub. Create 
   Hint: A KOPS cluster would be provided to you. You can use the worker nodes to write DockerFile and build image
   Hint: Use the DockerFile provided to you if needed to create the docker image
  
+  https://github.com/Karthiksen95/capstone/tree/master/new
 Create the DockerFile, requirements.txt and python api code in the same directory. use the following commands to build the image and push it to docker hub
   
 $ docker login -u <username>
